@@ -5,6 +5,14 @@
   "main": "index.js",
   "author": "Stephen Belanger <admin@stephenbelanger.com>",
   "license": "MIT",
+  "homepage": "https://github.com/Qard/gulp-matcha#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qard/gulp-matcha.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Qard/gulp-matcha/issues"
+  },
   "dependencies": {
     "gulp-util": "~3.0.4",
     "matcha": "~0.7.0",
