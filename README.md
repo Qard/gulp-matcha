@@ -1,5 +1,7 @@
 # gulp-matcha
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Qard/gulp-matcha.svg)](https://greenkeeper.io/)
+
 This lets you run matcha benchmarks as a gulp task.
 
 ## Install
